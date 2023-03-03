@@ -1,7 +1,7 @@
 package com.knoldus.task7;
 
 //java basics assignment task 7
-public class Main {
+public class SimpleCalculator {
 
     static int sum(int a, int b){
         return a+b;

@@ -1,7 +1,7 @@
 package com.knoldus.task6;
 
 //java basics assignment task 6
-public class Main {
+public class TypeCastingDouble {
 
     public static void main(String[] args) {
 

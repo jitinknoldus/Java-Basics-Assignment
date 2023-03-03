@@ -2,7 +2,7 @@ package com.knoldus.task9;
 
 //java basics assignment task 9
 
-public class Main {
+public class ConvertingToUpperCase {
 
         public static void main (String[] args) {
             String message = "Hello";

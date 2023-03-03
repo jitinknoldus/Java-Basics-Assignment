@@ -2,7 +2,7 @@ package com.knoldus.task8;
 
 //java basics assignment task 7
 
-public class Main {
+public class CircleOperations {
 
     public static void main(String[] args) {
         double radius = 3;

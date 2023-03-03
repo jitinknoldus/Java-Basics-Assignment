@@ -1,7 +1,7 @@
 package com.knoldus.task1;
 
 //java assignment task-1
-public class Main {
+public class IntegerConcepts {
 
     public static void main(String args[]){
 

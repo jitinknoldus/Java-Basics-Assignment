@@ -2,7 +2,7 @@ package com.knoldus.task2;
 
 // java assignment task 2
 
-public class Main {
+public class DoubleConcepts {
     public static void main(String args[]){
         double num1 = 3.14;
         double num2 = 6.28;

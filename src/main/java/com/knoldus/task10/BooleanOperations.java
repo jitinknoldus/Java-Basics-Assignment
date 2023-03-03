@@ -1,7 +1,7 @@
 package com.knoldus.task10;
 
 //java basics assignment task 10
-public class Main {
+public class BooleanOperations {
 
     public static void main(String[] args) {
         Boolean isCold = true;

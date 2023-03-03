@@ -1,7 +1,7 @@
 package com.knoldus.task4;
 
 //java basics assignment task  4
-public class Main {
+public class BooleanConcepts {
     public static void main(String[] args) {
         Boolean isRaining = true;
 
