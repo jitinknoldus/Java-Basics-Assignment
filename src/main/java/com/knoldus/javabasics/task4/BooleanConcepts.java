@@ -1,4 +1,4 @@
-package com.knoldus.task4;
+package com.knoldus.javabasics.task4;
 
 //java basics assignment task  4
 public class BooleanConcepts {

@@ -1,4 +1,4 @@
-package com.knoldus.task1;
+package com.knoldus.javabasics.task1;
 
 //java assignment task-1
 public class IntegerConcepts {

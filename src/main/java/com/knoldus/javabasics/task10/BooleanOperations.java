@@ -1,4 +1,4 @@
-package com.knoldus.task10;
+package com.knoldus.javabasics.task10;
 
 //java basics assignment task 10
 public class BooleanOperations {

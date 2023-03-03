@@ -1,4 +1,4 @@
-package com.knoldus.task5;
+package com.knoldus.javabasics.task5;
 
 //java basics assignment task 5
 public class DecreasingSequence {

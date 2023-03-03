@@ -1,4 +1,4 @@
-package com.knoldus.task7;
+package com.knoldus.javabasics.task7;
 
 //java basics assignment task 7
 public class SimpleCalculator {

@@ -1,4 +1,4 @@
-package com.knoldus.task3;
+package com.knoldus.javabasics.task3;
 
 //java assignment task 3
 

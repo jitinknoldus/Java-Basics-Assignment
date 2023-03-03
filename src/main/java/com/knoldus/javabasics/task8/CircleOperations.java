@@ -1,4 +1,4 @@
-package com.knoldus.task8;
+package com.knoldus.javabasics.task8;
 
 //java basics assignment task 7
 

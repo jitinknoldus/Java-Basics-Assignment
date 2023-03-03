@@ -1,4 +1,4 @@
-package com.knoldus.task9;
+package com.knoldus.javabasics.task9;
 
 //java basics assignment task 9
 

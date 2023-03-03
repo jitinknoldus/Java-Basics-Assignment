@@ -1,4 +1,4 @@
-package com.knoldus.task2;
+package com.knoldus.javabasics.task2;
 
 // java assignment task 2
 

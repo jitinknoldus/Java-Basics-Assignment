@@ -1,4 +1,4 @@
-package com.knoldus.task6;
+package com.knoldus.javabasics.task6;
 
 //java basics assignment task 6
 public class TypeCastingDouble {
